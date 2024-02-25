@@ -9,7 +9,7 @@
 [![@shelbourn's Holopin board](https://holopin.me/shelbourn)](https://holopin.io/@shelbourn)
 
 - 🔭 I’m currently working on a [CLI tool built in Rust](https://github.com/ericb/gaze)
-- 🌱 I’m currently learning Rust
-- 👯 I’m looking to collaborate on project with friendly devs
+- 🌱 I’m currently learning Rust, SQLite, improving my PHP
+- 👯 I’m looking to collaborate on project with friendly devs who want to have fun building cool stuff 😎
 - 🤔 I’m looking for help with nothing at the moment, but I know that Rust is gonna kick me in the brain eventually.
 - ⚡ Fun fact: When I was a teenager/young adult, I was the lead singer in a touring hardcore punk band 🤘
