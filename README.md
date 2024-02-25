@@ -12,4 +12,4 @@
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on project with friendly devs
 - 🤔 I’m looking for help with nothing at the moment, but I know that Rust is gonna kick me in the brain eventually.
-- ⚡ Fun fact: When I was a teenager/young adult, I was in a touring hardcore punk band 🤘
+- ⚡ Fun fact: When I was a teenager/young adult, I was the lead singer in a touring hardcore punk band 🤘
