@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### My name is Matt, but I also go by Matty, Shelbourn, Shelby, Shelly, Shelbourn Identity, 806 (?? this one takes some explaining)... I've accumulated quite a few nicknames over the years :grin:
+#### My name is Matt and it's nice to digitally meet you! I'm a software engineer working in the healthcare space by day. Outside of my fulltime job, I love to contribute to side projects, tinker with new technologies, bake, grill, garden, read, etc. 😁
 
 #### :construction: This profile is a WIP so please excuse the clutter as I compose myself. :construction:
 
@@ -8,18 +8,8 @@
 
 [![@shelbourn's Holopin board](https://holopin.me/shelbourn)](https://holopin.io/@shelbourn)
 
-<!--
-**shelbourn/shelbourn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- Testing 1Password signed commits
--->
+- 🔭 I’m currently working on a [CLI tool built in Rust](https://github.com/ericb/gaze)
+- 🌱 I’m currently learning Rust
+- 👯 I’m looking to collaborate on project with friendly devs
+- 🤔 I’m looking for help with nothing at the moment, but I know that Rust is gonna kick me in the brain eventually.
+- ⚡ Fun fact: When I was a teenager/young adult, I was in a touring hardcore punk band 🤘
